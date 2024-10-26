@@ -14,7 +14,7 @@ const works_library = {
                     'deploy → sakuraVPS',
                     ].join('<br>'),
         'github': 'https://github.com/oceantako/TETRIS_WEB',
-        'link': 'http://160.16.221.34/tetris/login'
+        'link': 'http://ryo-ryo-taro.com/tetris/login'
     },
     'team_portal': {
         'title': 'Team Portal',
